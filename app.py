@@ -2,7 +2,6 @@ import sys
 import numpy as np
 import pandas as pd
 import torch
-from fastapi import FastAPI
 from sentence_transformers import SentenceTransformer
 import streamlit as st
 
